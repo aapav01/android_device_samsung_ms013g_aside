@@ -24,6 +24,7 @@ vendor/lib/libaudcal.so
 vendor/lib/libcsd-client.so
 vendor/lib/soundfx/libqcbassboost.so
 vendor/lib/soundfx/libqcvirt.so
+lib/libaudio-ril.so
 
 # Bluetooth
 bin/btnvtool
@@ -292,10 +293,12 @@ lib/libreference-ril.so
 lib/libsecnativefeature.so
 lib/libsecril-client.so
 lib/libsec-ril.so
+lib/libsec-ril-dsds.so
 lib/libril.so
 vendor/lib/libconfigdb.so
 vendor/lib/libril-qcril-hook-oem.so
 vendor/lib/libxml.so
+lib/librilutils.so
 
 # Sensors
 bin/sensors.qcom
