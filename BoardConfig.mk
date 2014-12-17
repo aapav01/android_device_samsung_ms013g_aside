@@ -16,7 +16,7 @@ LOCAL_PATH := device/samsung/ms013g
 
 TARGET_SPECIFIC_HEADER_PATH := device/samsung/ms013g/include
 
-#TARGET_OTA_ASSERT_DEVICE := ms013g,ms01lte
+TARGET_OTA_ASSERT_DEVICE := ms013g
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := MSM8226
