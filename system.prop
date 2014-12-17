@@ -15,11 +15,9 @@ persist.rild.nitz_short_ons_3=
 ril.subscription.types=NV,RUIM
 telephony.lteOnGsmDevice=0
 ro.telephony.default_network=0
-ro.multi.rild=true
-persist.dsds.enabled=true
 persist.radio.multisim.config=dsds
 persist.multisim.config=dsds
-DEVICE_PROVISIONED=1
+ro.telephony.ril_class=SamsungMSM8226DSRIL
 
 # Audio
 af.resampler.quality=4
